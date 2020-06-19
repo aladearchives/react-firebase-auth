@@ -1,8 +1,8 @@
 ### Boilerplate React Firebase Authentication
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <p>The Authentication is handled through the API for Firebase https://firebase.google.com/
-Higher Order Components are used to pass Firebase properties to the app components so that authentication, session handling and realtime database are all provided by Firebase 
-Provide configuration details for Firebase in a .env file in your project root directory
+<p> Higher Order Components are used to pass Firebase properties to the app components so that authentication, session handling and realtime database are all provided by Firebase 
+<p> Provide configuration details for Firebase in a ```.env``` file in your project root directory
 
 ## Available Scripts
 
