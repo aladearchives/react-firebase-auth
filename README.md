@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <p>The Authentication is handled through the API for Firebase https://firebase.google.com/
 <p> Higher Order Components are used to pass Firebase properties to the app components so that authentication, session handling and realtime database are all provided by Firebase 
-<p> Provide configuration details for Firebase in a ```.env``` file in your project root directory
+<p> Provide configuration details for Firebase in a <code>.env</code> file in your project root directory
 
 ## Available Scripts
 
